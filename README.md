@@ -19,3 +19,5 @@ Ordered list
   3. Pf-lab3
 
 **I have started learning about github and their functionalities.**
+
+Bharat persuing degree of artificial inntelligence
