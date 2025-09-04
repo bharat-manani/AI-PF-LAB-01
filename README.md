@@ -8,11 +8,8 @@ _this is italic file_
 Unordered list
 <br/>
 - list 1
--  <br/>
 - list 2
-<br/>
 - list 3
-- <br/>
 - list 4
  <br/>
 Ordered list
