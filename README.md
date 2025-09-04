@@ -1,4 +1,4 @@
-# This is add featurs branch
+# This is add features branch
 
 ## HEADING 2
 ### HEADING 3
