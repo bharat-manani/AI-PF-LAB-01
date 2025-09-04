@@ -15,7 +15,7 @@ Unordered list
 - list 4
  <br/>
 Ordered list
-  . Pf-lab1
-  . Pf-lab2
-  . Pf-lab3
+  1. Pf-lab1
+  2. Pf-lab2
+  3. Pf-lab3
 **I have started learning about github and their functionalities.**
